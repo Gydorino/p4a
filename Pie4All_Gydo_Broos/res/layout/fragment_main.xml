@@ -15,7 +15,7 @@
         android:src="@drawable/pie4all" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/informatie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignBottom="@+id/imageView1"
@@ -24,7 +24,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/informatie"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/imageView1"
@@ -37,7 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/textView3"
+        android:layout_below="@+id/informatie"
         android:layout_marginTop="22dp"
         android:background="@android:drawable/btn_dropdown"
         android:spinnerMode="dropdown" />
