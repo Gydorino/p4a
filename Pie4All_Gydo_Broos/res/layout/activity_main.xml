@@ -4,5 +4,31 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.pie4all_gydo_broos.MainActivity"
-    tools:ignore="MergeRootFrame" />
+    tools:ignore="MergeRootFrame" >
 
+
+        
+        <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="@drawable/head"
+        android:orientation="horizontal" />
+
+	    <RelativeLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent" >
+
+	        <TextView
+	            android:id="@+id/textView1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentTop="true"
+	            android:layout_centerHorizontal="true"
+	            android:layout_marginTop="14dp"
+	            android:text="Pie4All"
+	            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+	    </RelativeLayout>
+	    
+</FrameLayout>

@@ -1018,7 +1018,7 @@ containing a value of this type.
         public static final int icon=0x7f05002a;
         public static final int ifRoom=0x7f05000a;
         public static final int image=0x7f050027;
-        public static final int imageView1=0x7f05003e;
+        public static final int imageView1=0x7f05003f;
         public static final int imageView2=0x7f05003d;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
@@ -1043,8 +1043,8 @@ containing a value of this type.
         public static final int showCustom=0x7f050007;
         public static final int showHome=0x7f050004;
         public static final int showTitle=0x7f050006;
-        public static final int spinner1=0x7f050040;
-        public static final int spinner2=0x7f050041;
+        public static final int spinner1=0x7f050041;
+        public static final int spinner2=0x7f050042;
         public static final int split_action_bar=0x7f05001e;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
@@ -1055,8 +1055,8 @@ containing a value of this type.
         public static final int tableRow5=0x7f050047;
         public static final int tableRow6=0x7f050048;
         public static final int tableRow7=0x7f050049;
-        public static final int textView1=0x7f050042;
-        public static final int textView3=0x7f05003f;
+        public static final int textView1=0x7f05003e;
+        public static final int textView3=0x7f050040;
         public static final int title=0x7f05002b;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
