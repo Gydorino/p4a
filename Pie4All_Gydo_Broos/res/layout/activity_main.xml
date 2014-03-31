@@ -29,6 +29,12 @@
 	            android:text="Pie4All"
 	            android:textAppearance="?android:attr/textAppearanceLarge" />
 
+	        <FrameLayout
+	            android:id="@+id/fragmentph"
+	            android:layout_width="match_parent"
+	            android:layout_height="match_parent" >
+	        </FrameLayout>
+
 	    </RelativeLayout>
 	    
 </FrameLayout>

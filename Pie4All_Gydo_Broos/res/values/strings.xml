@@ -4,5 +4,18 @@
     <string name="app_name">Pie4All_Gydo_Broos</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
-</resources>
+ 
+    <string name="categorie_keuze">Kies uw Categoriey</string>
+ 
+    <string-array name="categorie_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+    
+ </resources>

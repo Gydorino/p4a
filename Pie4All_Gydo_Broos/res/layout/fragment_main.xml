@@ -6,7 +6,7 @@
 
 
     <ImageView
-        android:id="@+id/imageView1"
+        android:id="@+id/p4alogo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -15,39 +15,39 @@
         android:src="@drawable/pie4all" />
 
     <TextView
-        android:id="@+id/informatie"
+        android:id="@+id/pie4all"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignBottom="@+id/p4alogo"
         android:layout_centerHorizontal="true"
         android:text="Welkom bij"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
-        android:id="@+id/informatie"
+        android:id="@+id/pie4all"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/imageView1"
+        android:layout_below="@+id/p4alogo"
         android:layout_centerHorizontal="true"
         android:text="Pie4All!"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <Spinner
-        android:id="@+id/spinner1"
+        android:id="@+id/categorie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/informatie"
+        android:layout_below="@+id/pie4all"
         android:layout_marginTop="22dp"
         android:background="@android:drawable/btn_dropdown"
         android:spinnerMode="dropdown" />
 
     <Spinner
-        android:id="@+id/spinner2"
+        android:id="@+id/soorttaart"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
-        android:layout_alignTop="@+id/spinner1"
+        android:layout_alignTop="@+id/categorie"
         android:layout_marginTop="53dp"
         android:background="@android:drawable/btn_dropdown"
         android:spinnerMode="dropdown" />
